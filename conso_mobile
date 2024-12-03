@@ -1,0 +1,40 @@
+{
+    "conso_mobile": [
+        {
+            "id": "11111",
+            "name": "Z Leclerc - Conso I 2024 12",
+            "client_id": "21487047941778",
+            "mois_conso": 12,
+            "type_conso": "type_conso_internet",
+            "volume_conso": 32,
+            "chart_url": "https://quickchart.io/chart?c=%7B%0A%20%20type%3A%20%27radialGauge%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20datasets%3A%20%5B%7B%0A%20%20%20%20%20%20data%3A%20%5B70%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%20%5B%27%2300ff00%27%2C%20%27%23ffff00%27%2C%20%27%23ff0000%27%5D%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%20%7B%0A%20%20%20%20domain%3A%20%5B0%2C%20100%5D%2C%0A%20%20%20%20trackColor%3A%20%27%23e0e0e0%27%2C%0A%20%20%20%20centerPercentage%3A%2080%2C%0A%20%20%20%20centerArea%3A%20%7B%0A%20%20%20%20%20%20text%3A%20%28val%29%20%3D%3E%20val%20%2B%20%27%25%27%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D"
+        },
+        {
+            "id": "11114",
+            "name": "Z Leclerc - Conso A 2024 12",
+            "client_id": "21487047941778",
+            "mois_conso": 12,
+            "type_conso": "type_conso_appels",
+            "volume_conso": 25,
+            "chart_url": ""
+        },
+        {
+            "id": "11112",
+            "name": "Z Leclerc - Conso I 2024 11",
+            "client_id": "21487047941778",
+            "mois_conso": 11,
+            "type_conso": "type_conso_internet",
+            "volume_conso": 80,
+            "chart_url": ""
+        },
+        {
+            "id": "11113",
+            "name": "Z Leclerc - Conso A 2024 11",
+            "client_id": "21487047941778",
+            "mois_conso": 11,
+            "type_conso": "type_conso_appels",
+            "volume_conso": 19,
+            "chart_url": ""
+        }
+    ]
+}
